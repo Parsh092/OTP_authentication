@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602147478610",
+    "project_id": "authenticationmsg91",
+    "storage_bucket": "authenticationmsg91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602147478610:android:bec57c6aa904a7b711938b",
+        "android_client_info": {
+          "package_name": "com.parsh.authentication_msg91"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602147478610-0519k3db8d4h33h2ahrfjkmd1qc80mdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RteTSMDh6e59RAjgVA6i_OeFXgGlkTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602147478610-0519k3db8d4h33h2ahrfjkmd1qc80mdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
